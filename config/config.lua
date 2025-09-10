@@ -38,8 +38,8 @@ config = {
 	enable_tab_bar = false,
 	
 	-- Font Configuration
-	-- Set font size to 12.5pt for good readability
-	font_size = 12.5,
+	-- Set font size to 10pt for good readability
+	font_size = 10,
 	-- Use JetBrains Mono with bold weight for better code visibility
 	font = wezterm.font("JetBrains Mono", { weight = "Bold" }),
 	
